@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvrajaudacious&label=Profile%20views&color=0e75b6&style=flat" alt="yuvrajaudacious" /> </p>
 
-<img src="https://kamsoft.co/assets/images/design-uiux-services.gif"></img>
+<center><img src="https://kamsoft.co/assets/images/design-uiux-services.gif"></img></center>
 
 - 🌱 I’m currently learning **React**
 
